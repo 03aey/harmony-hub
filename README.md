@@ -5,12 +5,12 @@ Harmony Hub is a cutting-edge music academy school app built with Next.js, desig
 ## Table of Contents
 
 - [Harmony Hub](#harmony-hub)
-  - [Table of Contents](#table-of-contents)
-  - [Features](#features)
-  - [Installation](#installation)
-  - [Usage](#usage)
-  - [Contributing](#contributing)
-  - [Contact](#contact)
+    - [Table of Contents](#table-of-contents)
+    - [Features](#features)
+    - [Installation](#installation)
+    - [Usage](#usage)
+    - [Contributing](#contributing)
+    - [Contact](#contact)
 
 ## Features
 
@@ -24,12 +24,14 @@ Harmony Hub is a cutting-edge music academy school app built with Next.js, desig
 To get started with Harmony Hub, follow these steps:
 
 1. **Clone the Repository**:
+
     ```bash
-    git clone https://github.com/alok-x0s1/Harmony-Hub.git
+    git clone https://github.com/03aey/harmony-hub.git
     cd harmony-hub
     ```
 
 2. **Install Dependencies**:
+
     ```bash
     npm install
     ```
@@ -38,7 +40,7 @@ To get started with Harmony Hub, follow these steps:
     ```bash
     npm run dev
     ```
-    Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+    Open [localhost:3000](http://localhost:3000) with your browser to see the result.
 
 ## Usage
 
@@ -54,31 +56,27 @@ After setting up the development server, you can start exploring the features of
 We welcome contributions from the community! To contribute to Harmony Hub, follow these steps:
 
 1. **Fork the Repository**: Click the "Fork" button at the top right of this page.
-2. **Clone Your Fork**:
+2. **Clone Your Fork**
     ```bash
-    git clone https://github.com/alok-x0s1/Harmony-Hub.git
+    git clone https://github.com/03aey/harmony-hub.git
     ```
-3. **Create a Branch**:
+3. **Create a Branch**
     ```bash
     git checkout -b feature/YourFeatureName
     ```
-4. **Commit Your Changes**:
+4. **Commit Your Changes**
     ```bash
     git commit -m 'Add some feature'
     ```
-5. **Push to the Branch**:
+5. **Push to the Branch**
     ```bash
     git push origin feature/YourFeatureName
     ```
 6. **Open a Pull Request**: Describe your changes and submit a pull request.
 
-## Contact
+---
 
-For any questions or feedback, please reach out to us at:
-
-- **Email**: support@harmonyhub.com
-- **GitHub Issues**: [https://github.com/alok-x0s1/Harmony-Hub/issues](https://github.com/yourusername/harmony-hub/issues)
-
-Thank you for using Harmony Hub! We hope you enjoy your musical journey with us.
-
-⚠️Sb copied hai.
+[![GitHub](https://img.shields.io/badge/GitHub-03aey-181717?logo=github&logoColor=white)](https://github.com/03aey)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-in%2F03aey-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/03aey)
+[![Portfolio](https://img.shields.io/badge/Portfolio-03aey.vercel.app-000000?logo=vercel&logoColor=white)](https://03aey.vercel.app)
+[![Linktree](https://img.shields.io/badge/Linktree-03aey-43E55E?logo=linktree&logoColor=white)](https://linktr.ee/03aey)
